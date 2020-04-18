@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AR | Van Dai Pham</title>
+    <link>https://vandaipham.github.io/tag/ar/</link>
+      <atom:link href="https://vandaipham.github.io/tag/ar/index.xml" rel="self" type="application/rss+xml" />
+    <description>AR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>AR</title>
+      <link>https://vandaipham.github.io/tag/ar/</link>
+    </image>
+    
+    <item>
+      <title>Interaction of AR and IoT Applications on the Basis of Hierarchical Cloud Services</title>
+      <link>https://vandaipham.github.io/publication/new2an2018/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/new2an2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmission of Augmented Reality Contents Based on BLE 5.0 Mesh Network</title>
+      <link>https://vandaipham.github.io/publication/new2an2018_2/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/new2an2018_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

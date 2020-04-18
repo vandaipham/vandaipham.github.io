@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flying network | Van Dai Pham</title>
+    <link>https://vandaipham.github.io/tag/flying-network/</link>
+      <atom:link href="https://vandaipham.github.io/tag/flying-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flying network</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Flying network</title>
+      <link>https://vandaipham.github.io/tag/flying-network/</link>
+    </image>
+    
+    <item>
+      <title>Positioning Methods Based on Flying Network for Emergencies</title>
+      <link>https://vandaipham.github.io/publication/icact2020p1/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/icact2020p1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial system–assisted wilderness search and rescue mission</title>
+      <link>https://vandaipham.github.io/publication/sensor2019/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/sensor2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flying Network for Emergencies</title>
+      <link>https://vandaipham.github.io/publication/dccn2018/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/dccn2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

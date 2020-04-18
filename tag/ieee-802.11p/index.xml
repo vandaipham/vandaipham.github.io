@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IEEE 802.11p | Van Dai Pham</title>
+    <link>https://vandaipham.github.io/tag/ieee-802.11p/</link>
+      <atom:link href="https://vandaipham.github.io/tag/ieee-802.11p/index.xml" rel="self" type="application/rss+xml" />
+    <description>IEEE 802.11p</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>IEEE 802.11p</title>
+      <link>https://vandaipham.github.io/tag/ieee-802.11p/</link>
+    </image>
+    
+    <item>
+      <title>Flying Network for Emergencies</title>
+      <link>https://vandaipham.github.io/publication/dccn2018/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/dccn2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
