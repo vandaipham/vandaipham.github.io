@@ -5,12 +5,20 @@
     <link>https://vandaipham.github.io/tag/lora/</link>
       <atom:link href="https://vandaipham.github.io/tag/lora/index.xml" rel="self" type="application/rss+xml" />
     <description>LoRa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>LoRa</title>
       <link>https://vandaipham.github.io/tag/lora/</link>
     </image>
+    
+    <item>
+      <title>Evaluation of Routing Protocols for Multi-hop Communication in LPWAN</title>
+      <link>https://vandaipham.github.io/publication/new2an2020_1/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/new2an2020_1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analytic Model of a Mesh Topology based on LoRa Technology</title>

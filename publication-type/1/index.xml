@@ -5,12 +5,36 @@
     <link>https://vandaipham.github.io/publication-type/1/</link>
       <atom:link href="https://vandaipham.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://vandaipham.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Applying the Concept of Software-Defined Networking in Wireless Mesh Network</title>
+      <link>https://vandaipham.github.io/publication/new2an2020_2/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/new2an2020_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Routing Protocols for Multi-hop Communication in LPWAN</title>
+      <link>https://vandaipham.github.io/publication/new2an2020_1/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/new2an2020_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method of Constructing Node Map in Wireless Mesh Sensor Network</title>
+      <link>https://vandaipham.github.io/publication/new2an2020_3/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/new2an2020_3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SDN-assisted Unmanned Aerial System for Monitoring Sensor Data</title>

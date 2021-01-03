@@ -5,12 +5,20 @@
     <link>https://vandaipham.github.io/tag/positioning/</link>
       <atom:link href="https://vandaipham.github.io/tag/positioning/index.xml" rel="self" type="application/rss+xml" />
     <description>positioning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>positioning</title>
       <link>https://vandaipham.github.io/tag/positioning/</link>
     </image>
+    
+    <item>
+      <title>Method of Constructing Node Map in Wireless Mesh Sensor Network</title>
+      <link>https://vandaipham.github.io/publication/new2an2020_3/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/new2an2020_3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Search for Coordinates of WSN Nodes using Multidimensional Scaling Method</title>
