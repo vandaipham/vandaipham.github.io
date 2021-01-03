@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edge computing | Van Dai Pham</title>
-    <link>https://vandaipham.github.io/tag/edge-computing/</link>
-      <atom:link href="https://vandaipham.github.io/tag/edge-computing/index.xml" rel="self" type="application/rss+xml" />
-    <description>Edge computing</description>
+    <title>Delay minimization | Van Dai Pham</title>
+    <link>https://vandaipham.github.io/tag/delay-minimization/</link>
+      <atom:link href="https://vandaipham.github.io/tag/delay-minimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Delay minimization</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Edge computing</title>
-      <link>https://vandaipham.github.io/tag/edge-computing/</link>
+      <title>Delay minimization</title>
+      <link>https://vandaipham.github.io/tag/delay-minimization/</link>
     </image>
     
     <item>

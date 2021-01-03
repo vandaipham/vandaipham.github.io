@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edge computing | Van Dai Pham</title>
-    <link>https://vandaipham.github.io/tag/edge-computing/</link>
-      <atom:link href="https://vandaipham.github.io/tag/edge-computing/index.xml" rel="self" type="application/rss+xml" />
-    <description>Edge computing</description>
+    <title>Edge gateway | Van Dai Pham</title>
+    <link>https://vandaipham.github.io/tag/edge-gateway/</link>
+      <atom:link href="https://vandaipham.github.io/tag/edge-gateway/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edge gateway</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Edge computing</title>
-      <link>https://vandaipham.github.io/tag/edge-computing/</link>
+      <title>Edge gateway</title>
+      <link>https://vandaipham.github.io/tag/edge-gateway/</link>
     </image>
     
     <item>
