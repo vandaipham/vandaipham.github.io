@@ -5,12 +5,20 @@
     <link>https://vandaipham.github.io/tag/edge-computing/</link>
       <atom:link href="https://vandaipham.github.io/tag/edge-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Edge computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Edge computing</title>
       <link>https://vandaipham.github.io/tag/edge-computing/</link>
     </image>
+    
+    <item>
+      <title>Agriculture Management Based on LoRa Edge Computing System</title>
+      <link>https://vandaipham.github.io/publication/dccn2020p3/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/dccn2020p3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Minimizing the IoT System Delay with the Edge Gateways</title>

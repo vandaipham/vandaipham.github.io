@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heterogeneous gateways | Van Dai Pham</title>
+    <link>https://vandaipham.github.io/tag/heterogeneous-gateways/</link>
+      <atom:link href="https://vandaipham.github.io/tag/heterogeneous-gateways/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heterogeneous gateways</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Heterogeneous gateways</title>
+      <link>https://vandaipham.github.io/tag/heterogeneous-gateways/</link>
+    </image>
+    
+    <item>
+      <title>Methods and Models for Using Heterogeneous Gateways in the Mesh LPWANs</title>
+      <link>https://vandaipham.github.io/publication/dccn2020p1/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/dccn2020p1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

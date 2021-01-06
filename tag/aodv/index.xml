@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AODV | Van Dai Pham</title>
+    <link>https://vandaipham.github.io/tag/aodv/</link>
+      <atom:link href="https://vandaipham.github.io/tag/aodv/index.xml" rel="self" type="application/rss+xml" />
+    <description>AODV</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>AODV</title>
+      <link>https://vandaipham.github.io/tag/aodv/</link>
+    </image>
+    
+    <item>
+      <title>Research on Using the AODV Protocol for a LoRa Mesh Network</title>
+      <link>https://vandaipham.github.io/publication/dccn2020p2/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vandaipham.github.io/publication/dccn2020p2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
